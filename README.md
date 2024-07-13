@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineering
+I am a software engineer
 
 
 ## 🌐 Socials:
