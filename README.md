@@ -7,29 +7,40 @@
 
 ## 💫 About Me
 
-I am a **Software Engineer** passionate about building robust web systems and exploring computer science fundamentals under the hood. 
+I am a **Software Engineer** passionate about building robust web systems and exploring computer science fundamentals under the hood.
 
 - 🔭 **Currently working as:** Software Engineer at SNTL (Société Nationale des Transports et de la Logistique).
 - ⚙️ **Core Expertise:** Java, Spring Boot, JEE, RESTful APIs, Angular, and React.
 - 🎮 **Passions & Interests:** Game Engine Design, Low-Level Graphics Rendering, and Systems Programming.
 - 🎯 **Engineering Focus:** Clean Code principles, SOLID architecture, unit & integration testing, and rendering performance.
 
----
+[//]: # (---)
 
-## 🎮 Featured Project: Game Dev From Scratch
+[//]: # ()
+[//]: # (## 🎮 Featured Project: Game Dev From Scratch)
 
-<a href="https://github.com/AbdoAitrais/GAME_DEV_FROM_SCRATCH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoAitrais&repo=GAME_DEV_FROM_SCRATCH&theme=dark" alt="GAME_DEV_FROM_SCRATCH" />
-</a>
+[//]: # ()
+[//]: # (<a href="https://github.com/AbdoAitrais/GAME_DEV_FROM_SCRATCH">)
 
-> **[GAME_DEV_FROM_SCRATCH](https://github.com/AbdoAitrais/GAME_DEV_FROM_SCRATCH)** — An exploration into building a custom 2D game engine completely from scratch in pure **Java**, deliberately avoiding external graphics libraries or frameworks.
-> 
-> **Key Concepts Explored:**
-> - Custom software rasterization & pixel buffer manipulation
-> - Custom game loop architecture & tick rate synchronization
-> - Entity management, collision detection, and 2D physics fundamentals
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdoAitrais&repo=GAME_DEV_FROM_SCRATCH&theme=dark" alt="GAME_DEV_FROM_SCRATCH" />)
 
----
+[//]: # (</a>)
+
+[//]: # ()
+[//]: # (> **[GAME_DEV_FROM_SCRATCH]&#40;https://github.com/AbdoAitrais/GAME_DEV_FROM_SCRATCH&#41;** — An exploration into building a custom 2D game engine completely from scratch in pure **Java**, deliberately avoiding external graphics libraries or frameworks.)
+
+[//]: # (>)
+
+[//]: # (> **Key Concepts Explored:**)
+
+[//]: # (> - Custom software rasterization & pixel buffer manipulation)
+
+[//]: # (> - Custom game loop architecture & tick rate synchronization)
+
+[//]: # (> - Entity management, collision detection, and 2D physics fundamentals)
+
+[//]: # ()
+[//]: # (---)
 
 ## 💻 Tech Stack
 
