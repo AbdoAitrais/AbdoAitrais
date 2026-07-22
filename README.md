@@ -9,7 +9,7 @@
 
 I am a **Software Engineer** passionate about building robust web systems and exploring computer science fundamentals under the hood.
 
-- 🔭 **Currently working as:** Software Engineer.
+- 🔭 **Currently working as:** Software Engineer at SNTL (Société Nationale des Transports et de la Logistique).
 - ⚙️ **Core Expertise:** Java, Spring Boot, JEE, RESTful APIs, Angular, and React.
 - 🎮 **Passions & Interests:** Game Engine Design, Low-Level Graphics Rendering, and Systems Programming.
 - 🎯 **Engineering Focus:** Clean Code principles, SOLID architecture, unit & integration testing, and rendering performance.
@@ -66,18 +66,14 @@ I am a **Software Engineer** passionate about building robust web systems and ex
 ---
 
 ## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://streak-stats.demolab.com/?user=abdoaitrais&theme=dark&hide_border=false)<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdoAitrais&theme=dark&hide_border=false&show_icons=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoAitrais&theme=dark&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdoAitrais&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ---
+[![](https://komarev.com/ghpvc/?username=abdoaitrais&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AbdoAitrais&icon=0&color=0" alt="Profile Views" />
-</p>
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
