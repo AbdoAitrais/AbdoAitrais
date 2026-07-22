@@ -9,7 +9,6 @@
 
 I am a **Software Engineer** passionate about building robust web systems and exploring computer science fundamentals under the hood.
 
-- 🔭 **Currently working as:** Software Engineer at SNTL (Société Nationale des Transports et de la Logistique).
 - ⚙️ **Core Expertise:** Java, Spring Boot, JEE, RESTful APIs, Angular, and React.
 - 🎮 **Passions & Interests:** Game Engine Design, Low-Level Graphics Rendering, and Systems Programming.
 - 🎯 **Engineering Focus:** Clean Code principles, SOLID architecture, unit & integration testing, and rendering performance.
