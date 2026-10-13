@@ -1,7 +1,7 @@
 # Hi there, I'm Abderrahman AIT RAIS 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahman_AIT_RAIS-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-ait-rais/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abderrahman.aitrais@gmail.com)
 
 ---
 
