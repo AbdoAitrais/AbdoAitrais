@@ -2,7 +2,7 @@
 
 **Software engineer.** I build robust web systems, and I like knowing what happens under the hood.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdo--rais.netlify.app-111214?style=flat-square&logo=astro&logoColor=white)](https://abdo-rais.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdo--rais.netlify.app-ff5a1f?style=flat-square&logo=astro&logoColor=white)](https://abdo-rais.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abderrahman_Ait_Rais-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abderrahman-ait-rais/)
 [![Email](https://img.shields.io/badge/Email-abderrahman.aitrais@gmail.com-555?style=flat-square&logo=gmail&logoColor=white)](mailto:abderrahman.aitrais@gmail.com)
 
