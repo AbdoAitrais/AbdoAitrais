@@ -25,7 +25,7 @@ query planners.
 
 More in the [archive](https://abdo-rais.netlify.app/archive).
 
-## ✍️ Latest posts
+<!-- ## ✍️ Latest posts-->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
